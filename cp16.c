@@ -1,4 +1,4 @@
-//Write a C program to swap two numbers using pointers.
+//Write a C program to swap two numbers using temperary variable.
 #include<stdio.h>
 int main() {
     int num1, num2, temp;
